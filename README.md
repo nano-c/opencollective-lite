@@ -12,7 +12,7 @@ Add the following to your `package.json`:
 ```json
 {
   "scripts": {
-    "postinstall": "opencollective-postinstall"
+    "postinstall": "opencollective-lite"
   },
   "collective": {
     "logo": "https://opencollective.com/webpack/logo.txt",
